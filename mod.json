@@ -1,0 +1,13 @@
+{
+	"geode": "3.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "logfc12.mymod",
+	"name": "Vinz Mod",
+	"developer": "LogFC12",
+	"version": "v1.0.0",
+	"description": "Simple Hello World Mod",
+	"repository": "https://github.com/logFC12/my-mod"
+}
